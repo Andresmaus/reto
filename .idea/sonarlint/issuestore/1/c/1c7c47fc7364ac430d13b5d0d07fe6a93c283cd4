@@ -1,0 +1,9 @@
+
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ð”„Îüÿÿÿÿ8µèìª¦/
+K
+java:S1481$")Remove this unused "info" local variable.(“æ“†þÿÿÿÿ8¬¨•Î¦/
+X	java:S125'"<This block of commented-out lines of code should be removed.(½‘Ñ³8ù§øÎ¦/
+Z
+java:S1854$"8Remove this useless assignment to local variable "info".(“æ“†þÿÿÿÿ8¬¨•Î¦/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú‰«ëÿÿÿÿÿ

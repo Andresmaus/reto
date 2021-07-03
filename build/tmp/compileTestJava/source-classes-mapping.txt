@@ -1,0 +1,6 @@
+co/com/certificacion/Choucair/runners/RunnerTags.java
+ co.com.certificacion.Choucair.runners.RunnerTags
+co/com/certificacion/Choucair/stepdefinitions/Hook.java
+ co.com.certificacion.Choucair.stepdefinitions.Hook
+co/com/certificacion/Choucair/stepdefinitions/RetoChoucair.java
+ co.com.certificacion.Choucair.stepdefinitions.RetoChoucair
